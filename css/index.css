@@ -112,6 +112,12 @@ header {
   width: 50%;
 }
 
+#content-donate {
+  position: absolute;
+  left: 50%;
+  width: 50%;
+}
+
 section {
   margin-bottom: 30px;
 }
